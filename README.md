@@ -15,5 +15,5 @@ http://neuralnetworksanddeeplearning.com/chap2.html#the_backpropagation_algorith
 
 
 # Dependencies
-numpy
-sklearn.datasets
++ numpy <br>
++ sklearn.datasets
