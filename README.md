@@ -12,3 +12,8 @@ http://neuralnetworksanddeeplearning.com/chap2.html#the_backpropagation_algorith
 <br> Not to mention numerous stack overflow threads reading about types of gradient descent, the cost surfaces, and what to set for the parameters
 
 ( An identical project I found at the end to compare efficiency) https://eng.libretexts.org/Bookshelves/Computer_Science/Applied_Programming/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen)/01%3A_Using_neural_nets_to_recognize_handwritten_digits/1.07%3A_Implementing_our_network_to_classify_digits
+
+
+# Dependencies
++ numpy <br>
++ sklearn.datasets
